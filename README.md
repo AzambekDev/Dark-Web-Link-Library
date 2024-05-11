@@ -16,4 +16,4 @@ All you have to do is:
 
   DISCLAIMER: I AM NOT RESPONSIBLE FOR ANY DAMAGE OR ILLEGAL ACTIONS CAUSED BY The Dark Web Link Library, PLEASE BROWSE SAFELY!!!!!
 
-INFO: IF you have any problems do not be afraid to post and issue or contact me directly via my email: azambekdev@gmail.com
+INFO: IF you have any problems do not be afraid to post an issue or contact me directly via my email: azambekdev@gmail.com
